@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+}
+
+p{
+    font-style: italic;
+}
+
+img{
+    align-items: flex-start;
+}
+.topright{
+    display: flex;
+    justify-content: flex-start;
+}
+.center{
+    display: flex;
+    justify-content: space-around;
+}
